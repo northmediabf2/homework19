@@ -1,12 +1,5 @@
 Домашнее задание 18 Network
 
-# Дано
-Vagrantfile с начальным  построением сети
-inetRouter
-centralRouter
-centralServer
-
-тестировалось на virtualbox
 
 # Планируемая архитектура
 построить следующую архитектуру
@@ -16,6 +9,7 @@ centralServer
 
 # otus-linux
 Vagrantfile - для стенда урока 9 - Network
+тестировалось на virtualbox
 
 # Дано
 https://github.com/erlong15/otus-linux/tree/network
