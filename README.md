@@ -91,7 +91,9 @@ Office2----/
 |Office2        |office hardware|192.168.1.192/26    |192.168.1.255 |192.168.1.193-192.168.1.254 | 62                    |
 
 * Network Diagram
-![Diagram](Untitled_Diagram.png)
+
+
+  ![Diagram](Untitled_Diagram.png)
  
 # Свободные подсети
  - 
